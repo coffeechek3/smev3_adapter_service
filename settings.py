@@ -14,4 +14,5 @@ class Config:
         'FNSVipUL': 'СвЮЛ.ОГРН',
         'ESIARegister': 'request_id',
         'ESIARegisterCertificate': 'request_id',
+        
     }
